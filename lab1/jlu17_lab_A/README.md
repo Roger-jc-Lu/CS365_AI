@@ -1,9 +1,9 @@
 ﻿# This is the readme for lab 1
 
 For this lab, argparse is imported for each script.
-To run the code, run `python script_name.py -i maze_name.txt` under the uncompressed directory.
+To run the code, run `python3 script_name.py -i maze_name.txt` under the uncompressed directory.
 
-E.g. `python single_gbfs.py -i 1prize_large.txt`
+E.g. `python3 single_gbfs.py -i 1prize_large.txt`
 <br/>
 The result, including the output maze trace, cost and node expanded will also be printed.
 
